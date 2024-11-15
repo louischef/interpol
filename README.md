@@ -77,5 +77,5 @@ git checkout -b ma-nouvelle-fonctionnalite
 3. Effectuez vos changements et commitez-les.
 4. Poussez la branche et créez une Pull Request.
 
-##Licence
+## Licence
 Ce projet est sous licence MIT. Vous êtes libre de l'utiliser, de le modifier et de le distribuer, tant que vous incluez la licence originale.
