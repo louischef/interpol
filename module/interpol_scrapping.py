@@ -1,6 +1,5 @@
 import requests
 import json
-from babel.dates import format_date
 from module.transform_data import transformer_donnees
 from module.json_manipulation import remove_duplicate
 # afficher le total, si le total est supérieur à 160 alors
