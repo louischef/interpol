@@ -1,0 +1,21 @@
+{
+    "personnes_recherchees": [
+        {
+            "nom": "string",
+            "prenom": "string",
+            "date_naissance": "date",
+            "taille": "integer",
+            "poids": "integer",
+            "couleur_yeux": "string",
+            "sexe": "string",
+            "pays_naissance": "string",
+            "police_recherche": "string",
+            "motif_recherche": "string",
+            "nationalites": ["string"],
+            "couleur_cheveux": "string",
+            "langues_parlees": ["string"],
+            "signes_distinctifs": ["string"],
+            "images": ["string"]
+        }
+    ]
+}
